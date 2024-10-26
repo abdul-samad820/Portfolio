@@ -1,0 +1,14 @@
+.footer {
+    background-color: #2C3E50; /* Same dark color for consistency */
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%; /* Full width for the footer */
+}
+
+.footer p {
+    margin: 0;
+    font-size: 0.9em; /* Slightly smaller font for footer text */
+}
